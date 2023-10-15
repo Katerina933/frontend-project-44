@@ -1,2 +1,4 @@
 #!/usr/bin/env node
-console.log('Welcome to the Brain Games!');
+
+import { greeting} from '/Users/ekaterinaazova/frontend-project-44/src/cli.js';
+greeting();
